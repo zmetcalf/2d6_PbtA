@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/3. Combat - (SW).md",
+                "file": "Rules/6. Etc Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/1. Materials.md",
+                "file": "Rules/5. Story and Oracles - (PbtA).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac5d20e98a840c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/6. Etc Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/1. Materials.md",
+                "file": "Rules/6. Etc Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/1. Materials.md",
+                "file": "Rules/6. Etc Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/1. Materials.md"
+                "file": "Rules/6. Etc Rules.md"
               }
             }
           }
@@ -203,12 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "761d17e8f05b6885",
+  "active": "a3beeff068b7a8ca",
   "lastOpenFiles": [
-    "Rules/5. Story and Oracles - (PbtA).md",
-    "Rules/2. Checks - (SW).md",
-    "Rules/4. Bennies - (SW).md",
     "Rules/3. Combat - (SW).md",
+    "Rules/5. Story and Oracles - (PbtA).md",
+    "Rules/6. Etc Rules.md",
+    "Rules/4. Bennies - (SW).md",
+    "Rules/2. Checks - (SW).md",
     "Rules/1. Materials.md",
     "Welcome.md",
     "Rules"
