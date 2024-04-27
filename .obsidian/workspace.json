@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/6. Etc Rules.md",
+                "file": "Rules/2. Checks - (SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/6. Etc Rules.md",
+                "file": "Rules/2. Checks - (SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/6. Etc Rules.md",
+                "file": "Rules/2. Checks - (SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/6. Etc Rules.md"
+                "file": "Rules/2. Checks - (SW).md"
               }
             }
           }
@@ -217,12 +217,12 @@
   },
   "active": "a3beeff068b7a8ca",
   "lastOpenFiles": [
-    "Rules/3. Combat - (SW).md",
-    "Rules/5. Story and Oracles - (PbtA).md",
-    "Rules/6. Etc Rules.md",
-    "Rules/4. Bennies - (SW).md",
-    "Rules/2. Checks - (SW).md",
     "Rules/1. Materials.md",
+    "Rules/2. Checks - (SW).md",
+    "Rules/5. Story and Oracles - (PbtA).md",
+    "Rules/4. Bennies - (SW).md",
+    "Rules/3. Combat - (SW).md",
+    "Rules/6. Etc Rules.md",
     "Welcome.md",
     "Rules"
   ]
