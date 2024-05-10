@@ -8,11 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfc45480063ae493",
+            "id": "a3beeff068b7a8ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e024a9da3c650b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LICENSE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e193a7e5f62bf103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LICENSE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -22,30 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Rules/4. Bennies - (SW).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed2d94e188e43a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/5. Story and Oracles - (PbtA).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3beeff068b7a8ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/2. Checks - (SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/2. Checks - (SW).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/2. Checks - (SW).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/2. Checks - (SW).md"
+                "file": "README.md"
               }
             }
           }
@@ -217,12 +220,14 @@
   },
   "active": "a3beeff068b7a8ca",
   "lastOpenFiles": [
-    "Rules/1. Materials.md",
-    "Rules/2. Checks - (SW).md",
+    "Rules/6. Etc Rules.md",
+    "LICENSE.md",
     "Rules/5. Story and Oracles - (PbtA).md",
     "Rules/4. Bennies - (SW).md",
     "Rules/3. Combat - (SW).md",
-    "Rules/6. Etc Rules.md",
+    "Rules/2. Checks - (SW).md",
+    "README.md",
+    "Rules/1. Materials.md",
     "Welcome.md",
     "Rules"
   ]
