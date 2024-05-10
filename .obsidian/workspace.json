@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/1. Materials.md",
+                "file": "Rules/6. Story and Oracles - (PbtA).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9833ae7bf8de846e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/2. Player Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/4. Bennies - (SW).md",
+                "file": "Rules/5. Bennies - (SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/5. Story and Oracles - (PbtA).md",
+                "file": "Rules/6. Story and Oracles - (PbtA).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/6. Etc Rules.md",
+                "file": "Rules/7. Etc Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,13 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/3. Combat - (SW).md",
+                "file": "Rules/4. Combat - (SW).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/1. Materials.md",
+                "file": "Rules/2. Player Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/1. Materials.md",
+                "file": "Rules/2. Player Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/1. Materials.md"
+                "file": "Rules/2. Player Characters.md"
               }
             }
           }
@@ -218,16 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3beeff068b7a8ca",
+  "active": "9833ae7bf8de846e",
   "lastOpenFiles": [
+    "Rules/4. Combat - (SW).md",
+    "Rules/2. Player Characters.md",
+    "Rules/7. Etc Rules.md",
+    "Rules/6. Story and Oracles - (PbtA).md",
+    "Rules/5. Bennies - (SW).md",
+    "Rules/3. Checks - (SW).md",
+    "Rules/1. Materials.md",
     "README.md",
     "LICENSE.md",
-    "Rules/6. Etc Rules.md",
-    "Rules/5. Story and Oracles - (PbtA).md",
-    "Rules/4. Bennies - (SW).md",
-    "Rules/3. Combat - (SW).md",
-    "Rules/2. Checks - (SW).md",
-    "Rules/1. Materials.md",
     "Welcome.md",
     "Rules"
   ]
