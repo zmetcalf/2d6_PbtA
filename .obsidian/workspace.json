@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rules/1. Materials.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rules/1. Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Rules/1. Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Rules/1. Materials.md"
               }
             }
           }
@@ -220,13 +220,13 @@
   },
   "active": "a3beeff068b7a8ca",
   "lastOpenFiles": [
-    "Rules/6. Etc Rules.md",
+    "README.md",
     "LICENSE.md",
+    "Rules/6. Etc Rules.md",
     "Rules/5. Story and Oracles - (PbtA).md",
     "Rules/4. Bennies - (SW).md",
     "Rules/3. Combat - (SW).md",
     "Rules/2. Checks - (SW).md",
-    "README.md",
     "Rules/1. Materials.md",
     "Welcome.md",
     "Rules"
