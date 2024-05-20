@@ -5,5 +5,3 @@ This game references the _Savage Worlds_ game system, available from Pinnacle En
 This work is based on IronSworn (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
 
 References Powered by The Apocalypse: [Apocalypse World](http://apocalypse-world.com/), by D. Vincent Baker. 
-
-References to Sandbox Generator by Atelier Clandestin https://atelierclandestin.wixsite.com/home

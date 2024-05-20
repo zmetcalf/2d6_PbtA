@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/2. Player Characters.md",
+                "file": "Rules/1. Materials.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/2. Player Characters.md",
+                "file": "Rules/1. Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/2. Player Characters.md",
+                "file": "Rules/1. Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/2. Player Characters.md"
+                "file": "Rules/1. Materials.md"
               }
             }
           }
@@ -233,15 +233,15 @@
   },
   "active": "9833ae7bf8de846e",
   "lastOpenFiles": [
-    "Rules/4. Combat - (SW).md",
-    "Rules/2. Player Characters.md",
-    "Rules/7. Etc Rules.md",
-    "Rules/6. Story and Oracles - (PbtA).md",
     "Rules/5. Bennies - (SW).md",
+    "Rules/6. Story and Oracles - (PbtA).md",
+    "Rules/4. Combat - (SW).md",
     "Rules/3. Checks - (SW).md",
-    "Rules/1. Materials.md",
+    "Rules/2. Player Characters.md",
     "README.md",
     "LICENSE.md",
+    "Rules/1. Materials.md",
+    "Rules/7. Etc Rules.md",
     "Welcome.md",
     "Rules"
   ]
