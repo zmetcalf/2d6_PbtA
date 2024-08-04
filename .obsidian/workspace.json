@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/1. Materials.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e024a9da3c650b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LICENSE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e193a7e5f62bf103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LICENSE.md",
+                "file": "Rules/3. Checks - (SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/1. Materials.md",
+                "file": "Rules/3. Checks - (SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/1. Materials.md",
+                "file": "Rules/3. Checks - (SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/1. Materials.md"
+                "file": "Rules/3. Checks - (SW).md"
               }
             }
           }
@@ -233,15 +209,15 @@
   },
   "active": "9833ae7bf8de846e",
   "lastOpenFiles": [
-    "Rules/5. Bennies - (SW).md",
+    "Rules/1. Materials.md",
     "Rules/6. Story and Oracles - (PbtA).md",
-    "Rules/4. Combat - (SW).md",
+    "Rules/7. Etc Rules.md",
+    "Rules/5. Bennies - (SW).md",
+    "LICENSE.md",
     "Rules/3. Checks - (SW).md",
     "Rules/2. Player Characters.md",
+    "Rules/4. Combat - (SW).md",
     "README.md",
-    "LICENSE.md",
-    "Rules/1. Materials.md",
-    "Rules/7. Etc Rules.md",
     "Welcome.md",
     "Rules"
   ]
